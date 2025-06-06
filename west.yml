@@ -8,7 +8,7 @@ manifest:
 
   projects:
     - name: wifi_cli
-      path: examples/wifi_cli
-      repo-path: examples/wifi_cli
+      path: wifi_cli
+      repo-path: wifi_cli
       revision: main
       remote: murata-rtos

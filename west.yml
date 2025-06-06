@@ -4,11 +4,11 @@ manifest:
 
   remotes:
     - name: murata-rtos
-      url-base: https://github.com/romit-murata/nxp-appcodehub
+      url-base: https://github.com/romit-murata
 
   projects:
     - name: wifi_cli
       path: wifi_cli
-      repo-path: wifi_cli
+      repo-path: freertos_wifi_cli
       revision: main
       remote: murata-rtos

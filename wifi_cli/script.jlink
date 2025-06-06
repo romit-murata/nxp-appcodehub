@@ -1,0 +1,5 @@
+ExitOnError 1
+r
+h
+loadfile d:\nxp\projects\rdrw612bga_wifi_cli\__repo__\components\conn_fwloader\fw_bin\rw61x_sb_wifi_a2.bin 0x8400000
+qc
